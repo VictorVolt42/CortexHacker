@@ -1,0 +1,5 @@
+{
+  "name": "GhostTrace - Hacker Simulator",
+  "description": "A simulation of a hacker information retrieval tool with a terminal aesthetic.",
+  "requestFramePermissions": []
+}
